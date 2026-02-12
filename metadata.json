@@ -1,0 +1,7 @@
+{
+  "name": "AERVIX - Electronics Learning Hub",
+  "description": "An exclusive electronics learning platform for the AERVIX club members to explore Arduino boards, log tasks, and track their progress.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
